@@ -5,7 +5,8 @@
   "main": "./src/index.js",
   "exports": {
     "import": "./src/index.mjs",
-    "require": "./src/index.js"
+    "require": "./src/index.js",
+    "types": "./index.d.ts"
   },
   "typings": "index.d.ts",
   "scripts": {
